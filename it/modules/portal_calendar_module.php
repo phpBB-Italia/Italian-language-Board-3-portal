@@ -46,13 +46,13 @@ $lang = array_merge($lang, array(
 
 	'mini_cal'	=> array(
 		'day'	=> array(
-			'1'	=> 'Lu',
-			'2'	=> 'Ma',
-			'3'	=> 'Me',
-			'4'	=> 'Gi',
-			'5'	=> 'Ve',
-			'6'	=> 'Sa',
-			'7'	=> 'Do',
+			'1'	=> 'Do',
+			'2'	=> 'Lu',
+			'3'	=> 'Ma',
+			'4'	=> 'Me',
+			'5'	=> 'Gi',
+			'6'	=> 'Ve',
+			'7'	=> 'Sa',
 		),
 
 		'month'	=> array(
